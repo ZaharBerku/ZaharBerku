@@ -28,6 +28,6 @@ ____
 	<a href="https://formik.org/docs/overview" rel="nofollow"> <img src="https://static-00.iconduck.com/assets.00/formik-icon-512x512-se1fegy1.png" alt="formik" width="40" height="40" style="max-width: 100%;"> </a>
 	<a href="https://jquery.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jquery" width="40" height="40" style="max-width: 100%;"> </a>
 	<a href="https://react-hook-form.com/" rel="nofollow"> <img src="https://avatars.githubusercontent.com/u/53986236?s=280&v=4" alt="react-hook-form" width="40" height="40" style="max-width: 100%;"> </a>
-	<a href="https://tailwindcss.com/brand" rel="nofollow"> <img src="https://www.drupal.org/files/project-images/screenshot_361.png" alt="tailwind-css" width="40" height="40" style="max-width: 100%;"> </a>
+	<a href="https://tailwindcss.com/brand" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind-css" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
 
