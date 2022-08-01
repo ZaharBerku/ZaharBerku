@@ -28,6 +28,6 @@ ____
 	<a href="https://tailwindcss.com/brand" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind-css" width="40" height="40" style="max-width: 100%;"> </a>
 	<a href="https://redux-toolkit.js.org/" rel="nofollow"> <img src="https://hybridheroes.de/blog/content/images/size/w1200/2022/03/redux-toolkit-1400.jpg" alt="redux-toolkit" width="100" height="40" style="max-width: 100%;"> </a>
 	<a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
-	<a href="https://react-table-v7.tanstack.com/" rel="nofollow"> <img src="https://react-table-v7.tanstack.com/_next/static/images/logo-light-66d4dd9109004332c863391e6d1cb309.svg" alt="react-table" width="40" height="40" style="max-width: 100%;"> </a>
+	<a href="https://react-table-v7.tanstack.com/" rel="nofollow"> <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbrPbnJ%2FbtrocTQ6bF5%2F6gsskhePVpIcoCOhlqOKo1%2Fimg.jpg" alt="react-table" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
 
