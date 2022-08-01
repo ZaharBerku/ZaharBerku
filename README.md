@@ -29,5 +29,6 @@ ____
 	<a href="https://redux-toolkit.js.org/" rel="nofollow"> <img src="https://hybridheroes.de/blog/content/images/size/w1200/2022/03/redux-toolkit-1400.jpg" alt="redux-toolkit" width="100" height="40" style="max-width: 100%;"> </a>
 	<a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
 	<a href="https://react-table-v7.tanstack.com/" rel="nofollow"> <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbrPbnJ%2FbtrocTQ6bF5%2F6gsskhePVpIcoCOhlqOKo1%2Fimg.jpg" alt="react-table" width="40" height="40" style="max-width: 100%;"> </a>
+	<a href="https://www.chartjs.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/9be0208aa516b4d1976412d27e9f73d851ea253f8ee005a0b600939f841bba8b/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667" alt="chart" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
 
