@@ -27,5 +27,6 @@ ____
 	<a href="https://axios-http.com/docs/intro" rel="nofollow"> <img src="https://upload.vectorlogo.zone/logos/axios/images/e2aae3c1-f98d-450b-8406-513bb5e6d5da.svg" alt="axios" width="40" height="40" style="max-width: 100%;"> </a>
 	<a href="https://formik.org/docs/overview" rel="nofollow"> <img src="https://static-00.iconduck.com/assets.00/formik-icon-512x512-se1fegy1.png" alt="formik" width="40" height="40" style="max-width: 100%;"> </a>
 	<a href="https://jquery.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jquery" width="40" height="40" style="max-width: 100%;"> </a>
+	<a href="https://react-hook-form.com/" rel="nofollow"> <img src="https://avatars.githubusercontent.com/u/53986236?s=280&v=4" alt="react-hook-form" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
 
