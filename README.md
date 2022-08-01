@@ -29,5 +29,6 @@ ____
 	<a href="https://jquery.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jquery" width="40" height="40" style="max-width: 100%;"> </a>
 	<a href="https://react-hook-form.com/" rel="nofollow"> <img src="https://avatars.githubusercontent.com/u/53986236?s=280&v=4" alt="react-hook-form" width="40" height="40" style="max-width: 100%;"> </a>
 	<a href="https://tailwindcss.com/brand" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind-css" width="40" height="40" style="max-width: 100%;"> </a>
+	<a href="https://redux-toolkit.js.org/" rel="nofollow"> <img src="https://hybridheroes.de/blog/content/images/size/w1200/2022/03/redux-toolkit-1400.jpg" alt="tailwind-css" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
 
