@@ -22,7 +22,6 @@ ____
 	 <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a> 
 	<a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;"> </a> 
 	<a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a> 
-	<a href="https://webpack.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="60" style="max-width: 100%;"> </a> 
 	<a href="https://axios-http.com/docs/intro" rel="nofollow"> <img src="https://upload.vectorlogo.zone/logos/axios/images/e2aae3c1-f98d-450b-8406-513bb5e6d5da.svg" alt="axios" width="40" height="40" style="max-width: 100%;"> </a>
 	<a href="https://formik.org/docs/overview" rel="nofollow"> <img src="https://static-00.iconduck.com/assets.00/formik-icon-512x512-se1fegy1.png" alt="formik" width="40" height="40" style="max-width: 100%;"> </a>
 	<a href="https://react-hook-form.com/" rel="nofollow"> <img src="https://avatars.githubusercontent.com/u/53986236?s=280&v=4" alt="react-hook-form" width="40" height="40" style="max-width: 100%;"> </a>
