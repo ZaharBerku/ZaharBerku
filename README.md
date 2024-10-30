@@ -10,8 +10,8 @@
 ### 🌟 About Me
 
 - 🔭 I’m currently working on **Portfolio**
-- 🌱 I’m currently learning **Node.js** and **Next.js**
-- 💬 Ask me about **JavaScript, React.js**
+- 🌱 I’m currently learning **Node.js** 
+- 💬 Ask me about **JavaScript, React.js** and **Next.js**
 - 📫 How to reach me: **zaharberku@gmail.com**
 - ⚡ Fun fact: *If the cat likes to sleep on the keyboard, it means that in a past life he was a programmer.*
 
