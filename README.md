@@ -68,17 +68,17 @@
 ____
 
 <p align="left" dir="auto"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> 
+  <a href="https://www.javascript.com/" rel="nofollow"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40" style="max-width: 100%;"> 
   </a> 
   <a href="https://www.typescriptlang.org/" rel="nofollow"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> 
   </a> 
   <a href="https://reactjs.org/" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40" style="max-width: 100%;"> 
   </a> 
   <a href="https://nextjs.org/" rel="nofollow"> 
-    <img src="https://upload.vectorlogo.zone/logos/nextjs/images/8e52b5f4-2cc3-4f25-b6d3-36c63a560454.svg" alt="next.js" width="40" height="40" style="max-width: 100%;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="next.js" width="40" height="40" style="max-width: 100%;"> 
   </a> 
   <a href="https://redux.js.org" rel="nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;"> 
@@ -87,7 +87,7 @@ ____
     <img src="https://hybridheroes.de/blog/content/images/size/w1200/2022/03/redux-toolkit-1400.jpg" alt="redux-toolkit" width="100" height="40" style="max-width: 100%;"> 
   </a> 
   <a href="https://tailwindcss.com/brand" rel="nofollow"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind-css" width="40" height="40" style="max-width: 100%;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind-css" width="40" height="40" style="max-width: 100%;"> 
   </a>
   <a href="https://styled-components.com/" rel="nofollow"> 
     <img src="https://styled-components.com/logo.png" alt="styled-components" width="40" height="40" style="max-width: 100%;"> 
@@ -105,19 +105,20 @@ ____
     <img src="https://static-00.iconduck.com/assets.00/formik-icon-512x512-se1fegy1.png" alt="formik" width="40" height="40" style="max-width: 100%;"> 
   </a> 
   <a href="https://nodejs.org" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> 
   </a> 
   <a href="https://www.mongodb.com/" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"> 
   </a> 
   <a href="https://aws.amazon.com/" rel="nofollow"> 
-    <img src="https://upload.vectorlogo.zone/logos/amazon_aws/images/5f91c3b8-80a4-4a63-b52b-7ab8e093ce77.svg" alt="aws" width="40" height="40" style="max-width: 100%;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40" style="max-width: 100%;"> 
   </a> 
   <a href="https://git-scm.com/" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width: 100%;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="40" height="40" style="max-width: 100%;"> 
   </a> 
   <a href="https://www.figma.com/" rel="nofollow"> 
-    <img src="https://upload.vectorlogo.zone/logos/figma/images/4d564f22-26ea-4ecb-9826-cb043d44444b.svg" alt="figma" width="40" height="40" style="max-width: 100%;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40" style="max-width: 100%;"> 
   </a> 
 </p>
+
 
