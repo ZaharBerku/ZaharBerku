@@ -1,13 +1,67 @@
-<h1 align="center">Hi 👋, I'm Nazar</h1>
-<h3 align="center">Highly motivated frontend developer from Ukraine</h3>
+# Hi 👋, I'm Nazar
+### Highly motivated frontend developer from Ukraine
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nazar&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> 
+</p>
 
+---
 
-- 🔭 I’m currently working on Portfolio
-- 🌱 I’m currently learning Node.js, Next.js 
-- 💬 Ask me about JS, React.js
-- 📫 How to reach me: zaharberku@gmail.com
-- ⚡ Fun fact: If the cat likes to sleep on the keyboard, it means that in a past life he was a programmer.
+### 🌟 About Me
+
+- 🔭 I’m currently working on **Portfolio**
+- 🌱 I’m currently learning **Node.js** and **Next.js**
+- 💬 Ask me about **JavaScript, React.js**
+- 📫 How to reach me: **zaharberku@gmail.com**
+- ⚡ Fun fact: *If the cat likes to sleep on the keyboard, it means that in a past life he was a programmer.*
+
+---
+
+### 🛠 Technical Skills
+
+#### **Languages:**
+- **JavaScript**, **TypeScript**, **MySQL** (basic level)
+
+#### **Frontend Development:**
+- **React.js**, **Next.js**, **Router (v5, v6)**, **Redux**, **Redux-thunk**, **Redux Toolkit**
+- **Tailwind CSS**, **Styled-components**, **Material UI**, **React Query**
+- **Form Handling:** **Formik**, **React Hook Form**
+
+#### **Backend Development:**
+- **Node.js** (basic level), **Strapi**
+
+#### **Databases:**
+- **MongoDB** (basic level), **Oracle SQL** (basic level)
+
+#### **Tools & Frameworks:**
+- **AWS (S3B)**, **GraphQL**, **Single-spa**
+- **Task Manager:** **Gulp**, **Webpack**
+
+#### **Version Control:**
+- **Git**, **Bitbucket**
+
+#### **IDEs:**
+- **Visual Studio Code**, **WebStorm**, **Cursor**
+
+#### **Markup & Design:**
+- **Cross-browser**, **Responsive**, **Adaptive Design**
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazar&show_icons=true&theme=radical" alt="Nazar's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazar&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="mailto:zaharberku@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nazar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 
 ### Languages and Tools:
 ____
