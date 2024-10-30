@@ -23,7 +23,7 @@
 - **JavaScript**, **TypeScript**, **MySQL** (basic level)
 
 #### **Frontend Development:**
-- **React.js**, **Next.js**, **Router (v5, v6)**, **Redux**, **Redux-thunk**, **Redux Toolkit**
+- **React.js**, **Next.js**, **Router (v5, v6)**, **Redux**, **Redux-thunk**, **Redux Toolkit**, **MobX**
 - **Tailwind CSS**, **Styled-components**, **Material UI**, **React Query**
 - **Form Handling:** **Formik**, **React Hook Form**
 
