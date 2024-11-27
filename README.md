@@ -22,7 +22,7 @@
 #### **Languages:**
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) *(basic level)*
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### **Frontend Development:**
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -34,11 +34,11 @@
 - ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-%23EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 #### **Backend Development:**
-- ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) *(basic level)*, **Strapi**
+- ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white), **Strapi**
 
 #### **Databases:**
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) *(basic level)*, 
-![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) *(basic level)*
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white), 
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 #### **Tools:**
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
