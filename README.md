@@ -53,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ZaharBerku&show_icons=true&theme=radical" alt="Nazar's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaharBerku&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nataliia-Belodedenko&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 📫 Connect with Me
