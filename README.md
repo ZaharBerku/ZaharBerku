@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nazar
+# Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I'm Nazar
 ### Highly motivated frontend developer from Ukraine
 
 <p align="center">
