@@ -27,13 +27,11 @@
 #### **Frontend Development:**
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
-**Router (v5, v6)**, ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-**Redux-thunk**, **Redux Toolkit**, **MobX**
+, ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 - ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Styled-Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white) 
 ![Material-UI](https://img.shields.io/badge/material--ui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
-**React Query**
-- **Form Handling:** ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-%23EC5990?style=for-the-badge&logo=reacthookform&logoColor=white), **Formik**
+- ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-%23EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 #### **Backend Development:**
 - ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) *(basic level)*, **Strapi**
@@ -42,11 +40,11 @@
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) *(basic level)*, 
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) *(basic level)*
 
-#### **Tools & Frameworks:**
+#### **Tools:**
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-**Single-spa**
-- **Task Manager:** ![Gulp](https://img.shields.io/badge/gulp-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white), 
+
+   ![Gulp](https://img.shields.io/badge/gulp-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white), 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 #### **Version Control:**
@@ -56,7 +54,6 @@
 #### **IDEs:**
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white) 
-**Cursor**
 
 #### **Markup & Design:**
 - **Cross-browser**, **Responsive**, **Adaptive Design**
